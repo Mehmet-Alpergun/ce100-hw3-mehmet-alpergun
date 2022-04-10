@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\hw3\ce100-hw3-sln\ce100-hw3-algo-lib-cs\bin\Debug\ce100-hw3-algo-lib-cs.dll
+C:\Users\DELL\Desktop\hw3\ce100-hw3-sln\ce100-hw3-algo-lib-cs\bin\Debug\ce100-hw3-algo-lib-cs.pdb
+C:\Users\DELL\Desktop\hw3\ce100-hw3-sln\ce100-hw3-algo-lib-cs\obj\Debug\ce100-hw3-algo-lib-cs.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\hw3\ce100-hw3-sln\ce100-hw3-algo-lib-cs\obj\Debug\ce100-hw3-algo-lib-cs.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\hw3\ce100-hw3-sln\ce100-hw3-algo-lib-cs\obj\Debug\ce100-hw3-algo-lib-cs.dll
+C:\Users\DELL\Desktop\hw3\ce100-hw3-sln\ce100-hw3-algo-lib-cs\obj\Debug\ce100-hw3-algo-lib-cs.pdb
